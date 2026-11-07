@@ -1,0 +1,43 @@
+# Dependências
+node_modules/
+.pnpm-store/
+
+# Ambiente
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Build
+dist/
+build/
+out/
+
+# Mobile
+.expo/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Cobertura de testes
+coverage/
+
+# ─── Dependências ────────────────────────────
+cd
+resumo.markdown
+licoes.markdown
